@@ -14,8 +14,8 @@ export const Main = styled.View`
 
 export const TittleCount = styled.Text`
   font-family: ${FONT_FAMILY.semiBold};
-  font-size: 25px;
-  color: ${COLORS.textDarkGray};
+  font-size: 20px;
+  color: ${COLORS.darkBlue};
 `;
 
 export const CountContainer = styled.View`

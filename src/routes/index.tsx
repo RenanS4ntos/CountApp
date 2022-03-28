@@ -12,13 +12,13 @@ export default function Routes(): ReactElement {
   return (
     <>
       <StatusBar
-      barStyle="light-content"
-      translucent
-      backgroundColor={COLORS.darkBlue}
-    />
-    <NavigationContainer>
-      <AppRoutes />
-    </NavigationContainer>
+        barStyle="light-content"
+        translucent
+        backgroundColor={COLORS.darkBlue}
+      />
+      <NavigationContainer>
+        <AppRoutes />
+      </NavigationContainer>
     </>
-  )
-}
+  );
+};
