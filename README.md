@@ -1,7 +1,7 @@
 # CountApp
 
 - Aplicativo simples para contagem utilizando o básico de estados em react-native
-- Desenvlvido como exemplo para a aula de Computação Móvel
+- Desenvolvido como exemplo para a aula de Computação Móvel
 
 # Como utilizar:
 
